@@ -1,0 +1,2 @@
+# Machine_Learning_Analyse_von_Filmdaten
+ Empfehlungssystem für eine Filmdatenbank
